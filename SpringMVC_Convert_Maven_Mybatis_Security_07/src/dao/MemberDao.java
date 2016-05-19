@@ -1,4 +1,4 @@
-package dao;
+﻿package dao;
 
 import java.sql.SQLException;
 
@@ -12,3 +12,5 @@ public interface MemberDao {
 	public int insert(Member member) throws ClassNotFoundException, SQLException;
 	
 }
+
+//git 실험용 입니다.
