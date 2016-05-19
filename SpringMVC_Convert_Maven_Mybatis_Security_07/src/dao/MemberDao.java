@@ -13,4 +13,3 @@ public interface MemberDao {
 	
 }
 
-//git 실험용 입니다.
